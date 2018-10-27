@@ -17,6 +17,7 @@ hr {
 
 .faded {
   color: rgba(255, 255, 255, 0.8); 
+  animation-duration: 4s;
 }
 
 header.startup {
